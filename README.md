@@ -2,8 +2,6 @@
 
 Olá🙋🏽‍♂️! Meu nome é Elias Júnior, estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e em constante busca por conhecimento. Atualmente, estou focando meus estudos em Python, uma linguagem versátil e poderosa que me permite explorar diversas áreas da programação.
 
-Minha jornada acadêmica e minhas experiências práticas têm me proporcionado habilidades em resolução de problemas, trabalho em equipe e aprendizado contínuo. Estou aberto a desafios e projetos que me permitam crescer profissionalmente e contribuir de forma significativa para a equipe e a empresa.
-
 ## 🌟 Habilidades
 
 ### Linguagens de Programação:
